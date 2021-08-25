@@ -1,5 +1,7 @@
 > Artigo escrito e publicado em: [https://warcontent.com/branch-git-no-terminal/](https://warcontent.com/branch-git-no-terminal/)
 
+# Como exibir a Branch atual do Git no Terminal - Dica de Produtividade
+
 Você já trabalhou em um projeto com muitas Branches? Já se perdeu fazendo coisas na Branch errada?
 
 Pois nesse artigo vou compartilhar uma dica muito bacana do [Glauco Custódio](https://glaucocustodio.github.io/2013/03/15/exibir-branch-atual-em-repositorios-git-no-terminal/) para exibir a branch atual no diretório do projeto.

@@ -1,5 +1,7 @@
 > Artigo escrito e publicado em: https://warcontent.com/cross-origin-resource-sharing/
 
+# O que é e como resolver o CORS (Cross-Origin Resource Sharing)?
+
 É comum quando você inicia seus estudos com algum framework moderno, em especial voltado a frontend, esbarrar no “problema” de **CORS (Cross-origin Resource Sharing)**…
 
 Sendo parecido com isso: *Origin http://localhost is not allowed by Access-Control-Allow-Origin*
